@@ -1,0 +1,126 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header{
+    display:flex;
+    padding-left: 100px;
+    margin-top: 30px;
+    border-bottom: 1px solid rgb(243, 243, 243);
+    padding-bottom: 25px;
+
+}
+.header a{
+    text-decoration: none;
+    color: rgb(0, 74, 71);
+    font-size: 18px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 600;
+}
+a.active{
+    border-bottom: 3px solid rgb(0, 74, 71);
+    padding-bottom: 12px;
+}
+.navbar{
+    padding-left: 45%;
+}
+.navbar a{
+    margin-left: 70px;
+}
+.image{
+    display: flex;
+   padding-top: 30px;
+   padding-left: 210px;
+}
+.img2{
+    margin-left: -30px;
+}
+.img3{
+    margin-left: -105px;
+}
+h4{
+    position: absolute;
+    margin-top: -100px;
+    margin-left: 20px;
+    color: white;
+    font-size: 22px;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p{
+    position: absolute;
+    margin-top: -70px;
+    margin-left: 20px;
+    color: white;
+    font-size: 13px;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.img1 a{
+    position: absolute;
+    margin-top: -35px;
+    margin-left: 20px;
+    color: white;
+    font-size: 17px;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+    border-bottom: 2px solid white;
+    text-decoration: none;
+}
+.img2 a{
+    position: absolute;
+    margin-top: -35px;
+    margin-left: 20px;
+    color: white;
+    font-size: 17px;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+    border-bottom: 2px solid white;
+    text-decoration: none;
+}
+.img3 a{
+    position: absolute;
+    margin-top: -35px;
+    margin-left: 20px;
+    color: white;
+    font-size: 17px;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+    border-bottom: 2px solid white;
+    text-decoration: none;
+}
+.img4 a{
+    position: absolute;
+    margin-top: -35px;
+    margin-left: 20px;
+    color: white;
+    font-size: 17px;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+    border-bottom: 2px solid white;
+    text-decoration: none;
+}
+.img5 a{
+    position: absolute;
+    margin-top: -35px;
+    margin-left: 20px;
+    color: white;
+    font-size: 17px;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+    border-bottom: 2px solid white;
+    text-decoration: none;
+}
+.image1{
+    display: flex;
+   padding-top: 30px;
+   padding-left: 210px;
+}
+.img5{
+    margin-left: -110px;
+}
+
+  
+
+
